@@ -1,0 +1,25 @@
+body{
+    background-image: url("Assets/Img/bcgd copy.jpg");
+}
+
+main{
+    min-width: 25%;
+}
+
+.image{
+    display: flex;
+    justify-content: center;
+}
+
+h3{
+    color: white;
+}
+
+.bloc1{
+    height: 100px;
+}
+
+.audio{
+    padding-left: 100px;
+
+}
